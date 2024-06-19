@@ -12,6 +12,7 @@ numpy = "^2.0.0"
 pandas = {extras = ["html"], version = "^2.2.2"}
 lxml = "^5.2.2"
 html5lib = "^1.1"
+matplotlib = "^3.9.0"
 
 
 [build-system]
